@@ -1,0 +1,19 @@
+//okno konfiguracyjne
+
+call_history_label_username => 'Nazwa użytkownika'
+call_history_label_key => 'Klucz telefonu'
+call_history_label_phone_number => 'Numer telefonu
+call_history_label_host_address => 'Adres CRM, np. http://test.yetiforce.com'
+call_history_label_save_logs_in_file => 'Zapisuj logi w pliku'
+
+call_history_button_ok => 'OK'
+
+//panel sprawdzania dostępności usługi po stronie serwera
+	
+call_history_service_availability_progress => 'Sprawdzanie dostępności usługi...'
+
+call_history_service_tap_to_check => 'Kliknij przycisk odświeżania żeby sprawdzić dostępność usługi.'
+call_history_service_is_available => 'Usługa jest aktywna po stronie serwera.'
+call_history_service_is_not_available => 'Usługa nie jest aktywna po stronie serwera lub połączenie sieciowe jest nieaktywne!'
+
+call_history_service_refrest_button => 'Sprawdź'
