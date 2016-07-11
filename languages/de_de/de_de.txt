@@ -1,19 +1,19 @@
 //configuration window
 
-call_history_label_username => 'Username'
-call_history_label_key => 'Phone key'
-call_history_label_phone_number => 'Phone number'
-call_history_label_host_address => 'CRM address, e.g. http://test.yetiforce.com'
-call_history_label_save_logs_in_file => 'Save logs in file'
+call_history_label_username => 'Benutzername'
+call_history_label_key => 'Telefon Key'
+call_history_label_phone_number => 'Telefonnummer'
+call_history_label_host_address => 'CRM Adresse, e.g. http://test.yetiforce.com'
+call_history_label_save_logs_in_file => 'Logs Speichern'
 
 call_history_button_ok => 'OK'
 
 //service availability pane
 
-call_history_service_availability_progress => 'Checking for availability of a service...'
+call_history_service_availability_progress => 'Verfügbarkeit des Dienstes Überprüfung...'
 
-call_history_service_tap_to_check => 'Tap Refresh button to check for avaiability of service.'
-call_history_service_is_available => 'Service is available on server.'
-call_history_service_is_not_available => 'Service is not available on server or network connection is turned off!'
+call_history_service_tap_to_check => 'Tippen Sie Aktualisieren, um für Verfügbarkeit des Dienstes zu überprüfen.'
+call_history_service_is_available => 'Der Service ist auf Server Verfügbar.'
+call_history_service_is_not_available => 'Der Service ist nicht verfügbar auf dem Server oder die Netzwerkverbindung ist  ausgeschaltet!'
 
-call_history_service_refrest_button => 'Refresh'
+call_history_service_refrest_button => 'Aktualisieren'
